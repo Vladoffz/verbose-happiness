@@ -119,9 +119,19 @@ h3 {
 
 .text {
     display: inline-block;
-    width: 50%;
+    width: 66%;
     text-align: center;
-    margin: 0 32em;
+    vertical-align: top;
+}
+
+.dropdown{
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+}
+
+.dropdown li p{
+    padding-bottom: 30px;
 }
 
 .end p {
